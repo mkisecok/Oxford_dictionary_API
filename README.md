@@ -1,4 +1,4 @@
-## Instructions for students:
+
 
 ### OxFord Dictionary 
 
@@ -21,11 +21,3 @@ $ node index.js happy
 
 Provided by: Oxford University Press
 ```
-
-
-
-### Rules
-
--   This is an individual assignment.
--   Deadline: 4 hours to 1 day.
-
